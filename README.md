@@ -1,2 +1,1 @@
-# project1
-cpsc 225
+# assignment4
